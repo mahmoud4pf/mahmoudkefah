@@ -1,4 +1,5 @@
-# Final Report | Capstone Project – The Battle of Neighborhoods  Finding a Better Place in Scarborough, Toronto. Mahmoud Kefah 
+# Final Report | Capstone Project – The Battle of Neighborhoods  Finding a Better Place in Scarborough, Toronto. 
+# Mahmoud Kefah 25/02/2025
 ## 1. Introduction:
 
 The purpose of this Project is to help people in exploring better facilities around their neighborhood. It will help people making smart and efficient decision on selecting great neighborhood out of numbers of other neighborhoods in Scarborough, Toranto.
