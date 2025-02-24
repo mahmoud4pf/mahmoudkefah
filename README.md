@@ -1,5 +1,4 @@
 # Mahmoud Kefah
-25/02/2025
 Applied Data Science Capstone by IBM/Coursera
 Table of contents
 Introduction: Business Problem
